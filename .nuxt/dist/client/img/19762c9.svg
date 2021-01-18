@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="192px" viewBox="0 0 73 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>float</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(33.038475, 97.219803) rotate(-104.000000) translate(-33.038475, -97.219803) translate(-63.461525, 53.219803)">
+            <g id="编组备份" transform="translate(21.713896, 20.938807) rotate(-20.000000) translate(-21.713896, -20.938807) translate(4.213896, 5.938807)">
+                <polygon id="Fill-1" fill="#9BA6BE" points="8.5247883 -3.15e-06 6.3e-06 14.7653699 8.5247883 29.5307429 17.0495703 14.7653699"></polygon>
+                <polygon id="Fill-2" fill="#DCDFE6" points="8.5247883 -3.15e-06 17.0495703 14.7653699 34.0991658 14.7653699 25.5743838 -3.15e-06"></polygon>
+                <polygon id="Fill-3" fill="#8C95A8" points="17.0495766 14.7653572 8.5247946 29.5307302 25.5743901 29.5307302 34.0991721 14.7653572"></polygon>
+            </g>
+            <g id="编组备份-3" transform="translate(133.732701, 37.292359) rotate(-20.000000) translate(-133.732701, -37.292359) translate(116.732701, 22.792359)">
+                <polygon id="Fill-1" fill="#9BA6BE" points="8.35429253 -3.087e-06 6.174e-06 14.4700625 8.35429253 28.940128 16.7085789 14.4700625"></polygon>
+                <polygon id="Fill-2" fill="#DCDFE6" points="8.35429253 -3.087e-06 16.7085789 14.4700625 33.4171825 14.4700625 25.0628961 -3.087e-06"></polygon>
+                <polygon id="Fill-3" fill="#8C95A8" points="16.7085851 14.4700501 8.35429871 28.9401156 25.0629023 28.9401156 33.4171887 14.4700501"></polygon>
+            </g>
+            <ellipse id="椭圆形" fill="#122134" transform="translate(28.131942, 27.110930) rotate(-47.000000) translate(-28.131942, -27.110930) " cx="28.1319419" cy="27.1109302" rx="1.89" ry="1"></ellipse>
+            <ellipse id="椭圆形备份-2" fill="#122134" transform="translate(140.020992, 42.836002) rotate(-47.000000) translate(-140.020992, -42.836002) " cx="140.020992" cy="42.8360024" rx="1.89" ry="1"></ellipse>
+            <path d="M125.644754,41.5057047 C126.688573,41.5057047 127.534754,41.0826138 127.534754,40.5607047 C127.534754,40.0387957 126.688573,39.6157047 125.644754,39.6157047 C124.600936,39.6157047 123.754754,40.0387957 123.754754,40.5607047 C123.754754,41.0826138 124.600936,41.5057047 125.644754,41.5057047 Z" id="椭圆形备份" fill="#122134" transform="translate(125.644754, 40.560705) rotate(66.000000) translate(-125.644754, -40.560705) "></path>
+            <line x1="35.9782243" y1="22.154409" x2="58.3432243" y2="71.609409" id="直线" stroke="#DCDFE6" stroke-width="1.89" stroke-linecap="round" transform="translate(47.003224, 46.724409) rotate(-20.000000) translate(-47.003224, -46.724409) "></line>
+            <line x1="146.434953" y1="38.5763821" x2="166.05693" y2="79.0863389" id="直线备份-2" stroke="#DCDFE6" stroke-width="1.89" stroke-linecap="round" transform="translate(156.199953, 58.736382) rotate(-20.000000) translate(-156.199953, -58.736382) "></line>
+            <line x1="127.707193" y1="50.1554559" x2="71.6371933" y2="54.5654559" id="直线备份" stroke="#DCDFE6" stroke-width="1.89" stroke-linecap="round" transform="translate(99.672193, 52.360456) rotate(-20.000000) translate(-99.672193, -52.360456) "></line>
+            <g id="编组备份-2" transform="translate(68.898641, 65.348931) rotate(-20.000000) translate(-68.898641, -65.348931) translate(56.898641, 54.848931)">
+                <polygon id="Fill-1" fill="#9BA6BE" points="5.96735181 -2.205e-06 4.41e-06 10.3357589 5.96735181 20.67152 11.9346992 10.3357589"></polygon>
+                <polygon id="Fill-2" fill="#DCDFE6" points="5.96735181 -2.205e-06 11.9346992 10.3357589 23.8694161 10.3357589 17.9020687 -2.205e-06"></polygon>
+                <polygon id="Fill-3" fill="#8C95A8" points="11.9347036 10.3357501 5.96735622 20.6715112 17.9020731 20.6715112 23.8694205 10.3357501"></polygon>
+            </g>
+            <g id="编组备份-4" transform="translate(177.949679, 73.928704) rotate(-20.000000) translate(-177.949679, -73.928704) translate(165.949679, 63.428704)">
+                <polygon id="Fill-1" fill="#9BA6BE" points="5.96735181 -2.205e-06 4.41e-06 10.3357589 5.96735181 20.67152 11.9346992 10.3357589"></polygon>
+                <polygon id="Fill-2" fill="#DCDFE6" points="5.96735181 -2.205e-06 11.9346992 10.3357589 23.8694161 10.3357589 17.9020687 -2.205e-06"></polygon>
+                <polygon id="Fill-3" fill="#8C95A8" points="11.9347036 10.3357501 5.96735622 20.6715112 17.9020731 20.6715112 23.8694205 10.3357501"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
