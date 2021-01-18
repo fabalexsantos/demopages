@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="445px" viewBox="0 0 1280 445" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1280" height="450"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(0.000000, -275.000000)">
+            <g id="bg" transform="translate(0.000000, 270.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <g id="Group-6" mask="url(#mask-2)">
+                    <g transform="translate(-10.000000, 0.000000)">
+                        <g id="Group-5">
+                            <g id="Group">
+                                <polygon id="Triangle" fill="#F8F9FA" points="489.161554 244.580777 0 489.161554 9.20715732e-14 0"></polygon>
+                                <polygon id="Rectangle-2" fill="#E8EAEE" points="0 489.161554 489.161554 244.580777 489.161554 733.742331 0 978.323108"></polygon>
+                            </g>
+                            <g id="Group-Copy" transform="translate(527.500000, 484.263804) scale(-1, 1) translate(-527.500000, -484.263804) translate(405.000000, 239.263804)">
+                                <polygon id="Triangle" fill="#F8F9FA" points="244.580777 122.290389 0 244.580777 4.60357866e-14 0"></polygon>
+                                <polygon id="Rectangle-2" fill="#DCDFE6" points="0 244.580777 244.580777 122.290389 244.580777 366.871166 0 489.161554"></polygon>
+                            </g>
+                        </g>
+                        <g id="Group-5-Copy" transform="translate(975.000000, 489.500000) scale(-1, 1) translate(-975.000000, -489.500000) translate(650.000000, 0.000000)">
+                            <g id="Group">
+                                <polygon id="Triangle" fill="#F8F9FA" points="489.161554 244.580777 0 489.161554 9.20715732e-14 0"></polygon>
+                                <polygon id="Rectangle-2" fill="#E8EAEE" points="0 489.161554 489.161554 244.580777 489.161554 733.742331 0 978.323108"></polygon>
+                            </g>
+                            <g id="Group-Copy" transform="translate(527.500000, 484.263804) scale(-1, 1) translate(-527.500000, -484.263804) translate(405.000000, 239.263804)">
+                                <polygon id="Triangle" fill="#F8F9FA" points="244.580777 122.290389 0 244.580777 4.60357866e-14 0"></polygon>
+                                <polygon id="Rectangle-2" fill="#DCDFE6" points="0 244.580777 244.580777 122.290389 244.580777 366.871166 0 489.161554"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
